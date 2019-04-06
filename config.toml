@@ -19,9 +19,9 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    keywords = ""
+    title = "td81.me - Programming and more."
+    subtitle = "Programming - C - JavaScript - Retro Stuff"
+    keywords = "Javascript ibm 5150 programming"
     copyright = ""
     menuMore = "Show more"
     readMore = "Read more"
